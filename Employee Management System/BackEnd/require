@@ -1,0 +1,6 @@
+npm install mysql2
+npm install cors
+npm install sequelize
+npm install express
+npm install --global --production windows-build-tools
+npm install bcrypt
